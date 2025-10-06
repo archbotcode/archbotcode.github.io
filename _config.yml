@@ -1,6 +1,9 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Archit Shenoy's Github Portfolio
+logo: assets/img/ArchiteGithub.png
+description: >
+I am an aspiring tennis athlete and student at Mission San Jose High School, Fremont, CA.
+<br>
+My goal is to put in the maximum effort and learn as much as I can both in my chosen sport and in academics.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
